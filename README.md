@@ -2,7 +2,7 @@
 
 A small learning project utilizing Golang and AWS. Read more about it on my blog: https://stefansiebel.wordpress.com/2018/07/23/learning-by-doing-an-aws-project/
 
-## TODO
+## TODOs (lots of them :-) )
 - Refactor code to become unit testable and add unit tests
 - Implement Lambda to clean up files on Dropbox and S3
 - add consistent logging
