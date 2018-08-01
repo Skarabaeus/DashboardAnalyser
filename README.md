@@ -21,3 +21,4 @@ A small learning project utilizing Golang and AWS. Read more about it on my blog
   - SNS
   - S3
   - API Gateway
+ - Add a simple UI to display the data from dynamoDB
